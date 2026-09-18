@@ -26,7 +26,7 @@ Yes. Since you **created the Date and Delivery Days fields**, you can describe t
 
 ### Source Data
 
-![Source Data](data.png)
+![Source Data](Data.png)
 
 
 ## Dashboard Features
