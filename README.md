@@ -30,31 +30,31 @@ Yes. Since you **created the Date and Delivery Days fields**, you can describe t
 
 
 ## Dashboard Features
-###KPI Cards:
+### KPI Cards:
   - Total Sales, Total Profit
   - Total Quantity
   - Total Orders
   - Average Delivery Days
   - and Profit Margin
-###Sales & Profit Trends:
+### Sales & Profit Trends:
 - Analyze performance by Year and Quarter.
-###Category Analysis:
+### Category Analysis:
 - Compare sales
 - Profit
 - Quantity across categories.
-###Product Analysis:
+### Product Analysis:
 - Identify top-selling and low-performing products.
-###Profit Margin:
+### Profit Margin:
 - Monitor profitability and compare performance.
-###Delivery Analysis:
+### Delivery Analysis:
 - Analyze delivery days and delivery efficiency.
-###Interactive Filters:
+### Interactive Filters:
 - Filter data by Year
 - uarter
 - Category
 - Product
 - Date.
-###Interactive Visualizations:
+### Interactive Visualizations:
 - Use charts and graphs to explore business performance easily.
   
 ## Files Included
