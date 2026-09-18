@@ -46,7 +46,6 @@ Yes. Since you **created the Date and Delivery Days fields**, you can describe t
 - Identify top-selling and low-performing products.
 ###Profit Margin:
 - Monitor profitability and compare performance.
-- 
 ###Delivery Analysis:
 - Analyze delivery days and delivery efficiency.
 ###Interactive Filters:
@@ -57,7 +56,7 @@ Yes. Since you **created the Date and Delivery Days fields**, you can describe t
 - Date.
 ###Interactive Visualizations:
 - Use charts and graphs to explore business performance easily.
-- 
+  
 ## Files Included
 
 | File | Description |
