@@ -62,19 +62,19 @@ Yes. Since you **created the Date and Delivery Days fields**, you can describe t
 
 | File | Description |
 |---|---|
-| `your-dashboard.xlsx` | Completed Excel dashboard |
-| `dashboard.png` | Preview of the final dashboard |
-| `data.png` | Preview of the source data |
+| `Sales-dashbord.xlsx` | Completed Excel dashboard |
+| `Dashboard.png` | Preview of the final dashboard |
+| `Data.png` | Preview of the source data |
 | `README.md` | Project documentation |
 
 ## How to Download and Use
 
-1. Download `choco-dashboard.xlsx`.
+1. Download `Sales-dashboard.xlsx`.
 2. Open the workbook using Microsoft Excel.
 3. Navigate to the dashboard worksheet.
 4. Use the available filters and slicers to explore the results.
 
-[Download the Excel Dashboard](choco-dashboard.xlsx)
+[Download the Excel Dashboard](Sales-dashboard.xlsx)
 
 ## Tools and Skills
 - Microsoft Excel
